@@ -1,4 +1,5 @@
 #!/bin/bash
+set -euo pipefail
 
 # Airflow 초기화
 docker-compose up airflow-init

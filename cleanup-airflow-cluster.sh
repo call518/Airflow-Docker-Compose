@@ -1,4 +1,5 @@
 #!/bin/bash
+set -euo pipefail
 
 # Airflow 클러스터 중지
 docker-compose down
