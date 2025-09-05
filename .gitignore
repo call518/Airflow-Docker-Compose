@@ -1,5 +1,5 @@
-config/*
-dags/*
-logs/*
-plugins/*
+*/config/*
+*/dags/*
+*/logs/*
+*/plugins/*
 .env
